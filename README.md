@@ -1,7 +1,7 @@
 # learnpy
 
 
-## 1. Installing Python / or using Python
+## 1. Installing Python / using Python
 
 ### Desktop
 
