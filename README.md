@@ -1,6 +1,5 @@
 # learnpy
 
----
 
 ## 1. Installing Python
 
@@ -9,7 +8,7 @@ For Windows - https://youtube.com/shorts/3WyDpVJUXOE?feature=share
 
 For MacOS - https://youtube.com/shorts/cTn1mTnFuRI?feature=share
 
-## Creating a GitHub Account (Optional)
+## 2. Creating a GitHub Account (Optional)
 
 - This would go hand in hand with the lectures.
 
