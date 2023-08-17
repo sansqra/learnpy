@@ -1,12 +1,19 @@
 # learnpy
 
 
-## 1. Installing Python
+## 1. Installing Python / or using Python
+
+### Desktop
 
 For Windows - https://youtube.com/shorts/3WyDpVJUXOE?feature=share
 
 
 For MacOS - https://youtube.com/shorts/cTn1mTnFuRI?feature=share
+
+
+### Browser based
+
+Programiz - https://www.programiz.com/python-programming/online-compiler/
 
 ## 2. Creating a GitHub Account (Optional)
 
